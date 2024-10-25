@@ -1,0 +1,3 @@
+Evaluacion de git hub 
+crear  nuevo repositorio 
+subir archivo a repositorio (Realizar un push )
