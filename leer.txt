@@ -1,3 +1,4 @@
 Evaluacion de git hub 
 crear  nuevo repositorio 
 subir archivo a repositorio (Realizar un push )
+escribiendo texto atravez de el repositorio de git para realizar un PULL
